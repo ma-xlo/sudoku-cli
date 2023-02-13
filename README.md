@@ -1,4 +1,4 @@
-# Sudoku (under developement)
+# Sudoku-CLI 
 
 #### How to play
 Use the coordinates to place a number inside a block.   
