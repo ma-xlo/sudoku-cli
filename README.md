@@ -4,8 +4,12 @@ Command line interface version of one of the most popular puzzle games of all ti
 #### How to play
 Use the coordinates to insert a number inside a cell.   
 e.g: a2-5 will insert the number 5 in line 2 of column "A".
-<br>
-<br>
+
+#### How to run
+```
+python3 sudoku.py
+```
+
 <img src="https://media.giphy.com/media/aDKPBSnXy0FoSC8wDl/giphy.gif" width="300" height="300" />
 
 #### In game commands
