@@ -13,6 +13,7 @@ python3 sudoku.py
 <div align="center">
   <img src="https://media.giphy.com/media/aDKPBSnXy0FoSC8wDl/giphy.gif" width="300" height="300" />
 </div>
+
 #### In game commands
 ```bash
 [X AXIS][Y AXIS]-[NUMBER]       insert a number
