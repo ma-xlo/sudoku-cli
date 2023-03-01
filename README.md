@@ -10,8 +10,9 @@ e.g: a2-5 will insert the number 5 in line 2 of column "A".
 python3 sudoku.py
 ```
 
-<img src="https://media.giphy.com/media/aDKPBSnXy0FoSC8wDl/giphy.gif" width="300" height="300" />
-
+<div align="center">
+  <img src="https://media.giphy.com/media/aDKPBSnXy0FoSC8wDl/giphy.gif" width="300" height="300" />
+</div>
 #### In game commands
 ```bash
 [X AXIS][Y AXIS]-[NUMBER]       insert a number
